@@ -1,0 +1,4 @@
+export const config = {
+  password_hash: "123456789012345",
+  secret: '80fb54d2b0803a0f15905343aae728a9fb60834e171fc45ddfbc03a4ee81c91c4f3a0f946e62b944a04b628709b471645af5c6791e470cb2eb8ba416615be8f9'
+};
